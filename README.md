@@ -961,7 +961,8 @@ prdict_test.to_csv("prdict_test.csv", index=False)
 
 最后保存并上传到kaggle上，就可以对模型进行评分
 
-![image-20250328163923142](https://gitee.com/xinyang666code/blogpictures/raw/master/images3/image-20250328163923142.png)
+![image](https://github.com/user-attachments/assets/ff5fa659-6de0-49c0-81df-0c3e60333ac1)
+
 
 我们的提交结果在kaggle的排名：
 
